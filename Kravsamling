@@ -15,33 +15,26 @@ Nästa dag i skolan frågar en av hans kompisar hur mycket poäng Kalle har? Han
 Definiera Use Case: "Som NN vil jag ....för att.…":
 Barn(roll: användare) 
 
-Pelle(användare) 12 år. Fylld med energi, sprallig. Vill inte sitta still för länge. Tycker om lätta frågor, mycket bilder och lite text.
+Pelle(användare) 12 år. Fylld med energi, sprallig. Vill inte sitta still för länge. Tycker om spel med lätta frågor, mycket bilder och lite text.
 Gillar att köra innebandy med sina kompisar, hoppa studsmatta samt spela League Of Legends. Ogillar läxor som inte handlar om
-historia och geografi. Kan inte ta in mer en några få rader av information om ett enbart ämne.
+historia och geografi. Kan inte ta in mer en några få rader av information om enbart ämne för att utråkar Pelle.
 
-Molly(användare): 8 år. Nyss lärt sig läsa och skriva på lågstadienivå. Gillar spel som innehåller bilder och  förstår små två raders 
-stycken men inte mycket mer. Gillar spel som har musik, gillar konst och spel som har mycket färg. Molly gillar att leka och baka på 
-fritiden samt följa hennes idoler via sociala medier.
+Molly(användare): 8 år. Molly har nyss lärt sig läsa och skriva på lågstadienivå. Hon gillar därför spel som innehåller många bilder och  och spel som inte har mer än en kort simpel paragraf per fråga. Hon Gillar spel som har inkluderar musik. Hon gillar också spel som har med hennes favorit färger Blått och vit. Hon vill gärna att spelet ska innehålla två olika figurer för att Molly gillar geometriska former. Hon gillar också att leka med vänner på fritiden samt följa hennes idoler via sociala medier.
 
 Föräldrar(roll: föräldrar till användare)
 
 Erik(förälder) 42år. Är pappa till Pelle som är bekymrad över att hans son Pelle som spelar bort sin tid och inte lär sig nog i skolan
-eftersom han mest spelar bort sin tid på ett spel som inte hjälper honom i studierna. Erik vill att hans son gärna lägger ner mer
-tid på lärospel som är interaktiva, roliga och lär sonen någonting. Hans ända bekymmer är att spelet inte ska ha någon politisk 
-agenda för att förspegla verkligheten för hans son, utan att spelet ska vara opartiskt.
+eftersom det spel han spelar inte hjälper honom i studierna. Erik vill att hans son gärna lägger ner mer tid på lärospel som är interaktiva, roliga och lär sonen någonting viktigt om just samhällskunskap vilket är ett ämne både Erik och sonen Pelle har ett stort intresse. Hans ända bekymmer är att spelet inte ska ha någon politisk agenda för att förspegla verkligheten för hans son, utan att spelet ska vara opartiskt och innehålla fakta och inte åsikter personliga åsikter i de frågor som presenteras.
 
-Moa(förälder) 37år: Är mamma till Molly. Vill att Molly ska spela spel som är användbart till hennes studier men vill att svårighets
-graden inte ska vara för avancerad då Molly inte kan läsa eller skriva så bra. Det är Moa som kommer att sköta spelinköpet för Molly
-så just därför är det Moa som känner att hon måste bli imponerad över dessaa kvalitér för att hon ska köpa detta spel till sin
-dotter.
+Moa(förälder) 37år: Moa är mamma till Molly. Det hon vill är att Molly ska spela spel som är användbart till hennes studier inom SO men vill att svårighets graden på frågorna inte ska vara för avancerad då Molly inte kan läsa eller skriva så bra. Det är Moa som kommer att välja vilket spel som Molly kommer att få så just därför är det Moa som känner att dessa kritier måste uppfyllas över dessaa kvalitér för att hon ska köpa detta spel till sin dotter.
+
 
 Lärare
 
-William(roll:lärare)47år: William är en passionerad lärare som vill använda mer digital medier för att lära barnen i klassen för att
+William(roll:lärare)47år: William är en passionerad lärare som vill använda mer digital medier för att lära barnen i klassen att
 göra arbetet i skolan mer interaktivt och roligt. Han söker efter spel som inte är för avancerade och för barn som går i sent 
-lågstadie och barn som förövrigt går på mellanstadiet. Eftersom att William lär ut samhällskunskap och geografi i skolan så vill han
-gärna se att spelet uppfyller dessa två kriterier men skulle vara nöjd med ett av dessa ämnen sålänge spelet är simpelt, kul, interaktiv
-och att det ger positiva studieresultat till de elever han undervisar.
+lågstadie och barn som förövrigt går på mellanstadiet. Så därmed vill William att spelet ska vara enkelt men informativ. Eftersom att William lär ut samhällskunskap och geografi i skolan så vill han gärna se att spelet uppfyller dessa två områden men skulle vara nöjd med att spelen han köper lär ut en av dessa ämnen sålänge spelet är simpelt, kul, interaktiv
+och att det ger kunskaper som hans elever kan använda på SO lektionerna.
 
 Defineira flödesschema med Swimlanes: Beskriv lite mer formellt med flödesschema i swimlanes hur de olika rollerna samverkar mellan de olika Use Casen:
 
