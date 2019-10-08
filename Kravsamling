@@ -1,0 +1,30 @@
+						Kravsamling
+
+Ta fram krav genom att:
+
+Definiera Intressenterna och beskriv deras "Persona":
+Barn (7-15år) fyller rollen som användare av produkten.
+Föräldrar fyller rollen som ansvariga över användare.
+Lärare fyller rollen att informera användare.
+
+Definiera Usage Scenario/Story - Vilket behov fyller systemstödet för de olika rollerna och hur inteagerar det. En spännade story som förklarar spelet i sitt sammnhang:
+Lärorikt, Utmanande, Snabbt
+Det är val igen, och Kalle hör sina föräldrar diskutera och bråka om vilket parti dom ska rösta på. På morgonen innan lämning till skolan i bilen med pappa så får Kalle höra om hur usel ”Löfven” är och att ”vi måste ta tag i Sverige igen”. På kvällen vid läggning får Kalle höra av mamma hur ”löneklyftor ökar” och hur viktigt det är att inte låta ”SD ta mer makt” för ”Demokratins skull”. Kalle är förvirrad om vad demokrati ens är och vill själv skapa en egen uppfattning inför valet. Dagen efter öppnar han upp Google och söker på ”Demokrati för barn inför valet”. Strax där på hittar han en länk till en App på GooglePlay Store som heter ”Demcratquiz”. Efter Kalle registrerat sig snabbt och enkelt så får han chansen att testa spelet efter lunchen. Han bemöts av frågan ”Vad betyder Demokrati?”, med svarsalternativen ”Folkstyre”, ”Enskild ledare”, ”Statschef”, ”Folkmakt”. Han tänker efter noga och tittar ner på skärmen igen och ser att tiden börjar ticka ner. Han väljer ett av dom fyra alternativen och får ett grönt signaltecken på skärmen. Nästa fråga dyker upp, han fortsätter fråga på fråga. Ser att Samhällskunsaken börjar om bara 3minuter!! Kalle stänger ner appen snabbt och rusar iväg till lektionen. På lektionen får Kalle chansen att använda sig av sin nya kunskap då läraren frågar om någon vet vad demokrati är? Efter lektionen frågar hans vänner varför han inte var med på fotboll under lunchrasten. Kalle visar upp Democratquiz, och ser till sin förvåning att hans poäng har sparats på en poängtavla där han rankats. Så fort han kommer hem fortsätter han att spela, och är nyfiken på lite nya ord han lärt sig, och använder Google till att söka upp dom.
+Nästa dag i skolan frågar en av hans kompisar hur mycket poäng Kalle har? Han svarar ”på vadå?”, kompisen svarar ”på democratquiz såklart..!!”, Kalle öppnar och kollar och ser att han har fått ihop 200 poäng, kompisar svarar kaxigt ”jag har 240 poäng”. Kalle blir motiverad att slå kompisen och lära sig mer inför Samhällskunskapen. Men hjälp av dom nya orden och informationen Kalle sökt upp kvällen innan, lyckas han slå kompisens poäng precis innan lektionen börjar. Kalle känner att lektionen är ovanligt lätt då han förstår och kan relatera mer till vad läraren förklarar.
+
+Definiera Use Case: "Som NN vil jag ....för att.…":
+Benjamin fixat
+Defineira flödesschema med Swimlanes: Beskriv lite mer formellt med flödesschema i swimlanes hur de olika rollerna samverkar mellan de olika Use Casen:
+
+Beskriv Produktägarens idé om en "Minsta Möjliga Användbar Produkt" baserat på de Use Case/Usage Scenario/Story som definierats. Svara på frågan: Vad är den minsta användbara produkt ni kan köra efter en sprints arbete?
+Sprintperiod = 1 arbetsvecka
+Sprit 1: fungerande alpha version:
+- Login
+- 
+Sprint 2: addera funktionalitet och förbättringar:
+- Scoreboard
+- 
+
+Skriv upp kraven i en "Product Backlog" och prioirtera ur produktägarens/brukarens perspektiv:
+
+Dokuemntera ovanstående och ladda upp på PingPong
