@@ -1,4 +1,4 @@
-						Kravsamling
+Kravsamling
 
 Ta fram krav genom att:
 
@@ -13,7 +13,36 @@ Det är val igen, och Kalle hör sina föräldrar diskutera och bråka om vilket
 Nästa dag i skolan frågar en av hans kompisar hur mycket poäng Kalle har? Han svarar ”på vadå?”, kompisen svarar ”på democratquiz såklart..!!”, Kalle öppnar och kollar och ser att han har fått ihop 200 poäng, kompisar svarar kaxigt ”jag har 240 poäng”. Kalle blir motiverad att slå kompisen och lära sig mer inför Samhällskunskapen. Men hjälp av dom nya orden och informationen Kalle sökt upp kvällen innan, lyckas han slå kompisens poäng precis innan lektionen börjar. Kalle känner att lektionen är ovanligt lätt då han förstår och kan relatera mer till vad läraren förklarar.
 
 Definiera Use Case: "Som NN vil jag ....för att.…":
-Benjamin fixat
+Barn(roll: användare) 
+
+Pelle(användare) 12 år. Fylld med energi, sprallig. Vill inte sitta still för länge. Tycker om lätta frågor, mycket bilder och lite text.
+Gillar att köra innebandy med sina kompisar, hoppa studsmatta samt spela League Of Legends. Ogillar läxor som inte handlar om
+historia och geografi. Kan inte ta in mer en några få rader av information om ett enbart ämne.
+
+Molly(användare): 8 år. Nyss lärt sig läsa och skriva på lågstadienivå. Gillar spel som innehåller bilder och  förstår små två raders 
+stycken men inte mycket mer. Gillar spel som har musik, gillar konst och spel som har mycket färg. Molly gillar att leka och baka på 
+fritiden samt följa hennes idoler via sociala medier.
+
+Föräldrar(roll: föräldrar till användare)
+
+Erik(förälder) 42år. Är pappa till Pelle som är bekymrad över att hans son Pelle som spelar bort sin tid och inte lär sig nog i skolan
+eftersom han mest spelar bort sin tid på ett spel som inte hjälper honom i studierna. Erik vill att hans son gärna lägger ner mer
+tid på lärospel som är interaktiva, roliga och lär sonen någonting. Hans ända bekymmer är att spelet inte ska ha någon politisk 
+agenda för att förspegla verkligheten för hans son, utan att spelet ska vara opartiskt.
+
+Moa(förälder) 37år: Är mamma till Molly. Vill att Molly ska spela spel som är användbart till hennes studier men vill att svårighets
+graden inte ska vara för avancerad då Molly inte kan läsa eller skriva så bra. Det är Moa som kommer att sköta spelinköpet för Molly
+så just därför är det Moa som känner att hon måste bli imponerad över dessaa kvalitér för att hon ska köpa detta spel till sin
+dotter.
+
+Lärare
+
+William(roll:lärare)47år: William är en passionerad lärare som vill använda mer digital medier för att lära barnen i klassen för att
+göra arbetet i skolan mer interaktivt och roligt. Han söker efter spel som inte är för avancerade och för barn som går i sent 
+lågstadie och barn som förövrigt går på mellanstadiet. Eftersom att William lär ut samhällskunskap och geografi i skolan så vill han
+gärna se att spelet uppfyller dessa två kriterier men skulle vara nöjd med ett av dessa ämnen sålänge spelet är simpelt, kul, interaktiv
+och att det ger positiva studieresultat till de elever han undervisar.
+
 Defineira flödesschema med Swimlanes: Beskriv lite mer formellt med flödesschema i swimlanes hur de olika rollerna samverkar mellan de olika Use Casen:
 
 Beskriv Produktägarens idé om en "Minsta Möjliga Användbar Produkt" baserat på de Use Case/Usage Scenario/Story som definierats. Svara på frågan: Vad är den minsta användbara produkt ni kan köra efter en sprints arbete?
