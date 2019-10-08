@@ -13,7 +13,9 @@ Det är val igen, och Kalle hör sina föräldrar diskutera och bråka om vilket
 Nästa dag i skolan frågar en av hans kompisar hur mycket poäng Kalle har? Han svarar ”på vadå?”, kompisen svarar ”på democratquiz såklart..!!”, Kalle öppnar och kollar och ser att han har fått ihop 200 poäng, kompisar svarar kaxigt ”jag har 240 poäng”. Kalle blir motiverad att slå kompisen och lära sig mer inför Samhällskunskapen. Men hjälp av dom nya orden och informationen Kalle sökt upp kvällen innan, lyckas han slå kompisens poäng precis innan lektionen börjar. Kalle känner att lektionen är ovanligt lätt då han förstår och kan relatera mer till vad läraren förklarar.
 
 Definiera Use Case: "Som NN vil jag ....för att.…":
-Barn(roll: användare) 
+Barn(roll: användare)
+
+Kalle(användare) 12år. Tycker om spel som är lättspelade och snabbt nog att spela på busresan hem från skolan. Det får gärna vara färgglatt och tävlingsinriktat med.
 
 Pelle(användare) 12 år. Fylld med energi, sprallig. Vill inte sitta still för länge. Tycker om spel med lätta frågor, mycket bilder och lite text.
 Gillar att köra innebandy med sina kompisar, hoppa studsmatta samt spela League Of Legends. Ogillar läxor som inte handlar om
