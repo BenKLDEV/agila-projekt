@@ -13,32 +13,32 @@ Det är val igen, och Kalle hör sina föräldrar diskutera och bråka om vilket
 Nästa dag i skolan frågar en av hans kompisar hur mycket poäng Kalle har? Han svarar ”på vadå?”, kompisen svarar ”på democratquiz såklart..!!”, Kalle öppnar och kollar och ser att han har fått ihop 200 poäng, kompisar svarar kaxigt ”jag har 240 poäng”. Kalle blir motiverad att slå kompisen och lära sig mer inför Samhällskunskapen. Men hjälp av dom nya orden och informationen Kalle sökt upp kvällen innan, lyckas han slå kompisens poäng precis innan lektionen börjar. Kalle känner att lektionen är ovanligt lätt då han förstår och kan relatera mer till vad läraren förklarar.
 
 Definiera Use Case: "Som NN vil jag ....för att.…":
-Barn(roll: användare)
 
-Kalle(användare) 12år. Tycker om spel som är lättspelade och snabbt nog att spela på busresan hem från skolan. Det får gärna vara färgglatt och tävlingsinriktat med.
+Barn (7-15):
 
-Pelle(användare) 12 år. Fylld med energi, sprallig. Vill inte sitta still för länge. Tycker om spel med lätta frågor, mycket bilder och lite text.
-Gillar att köra innebandy med sina kompisar, hoppa studsmatta samt spela League Of Legends. Ogillar läxor som inte handlar om
-historia och geografi. Kan inte ta in mer en några få rader av information om enbart ämne för att utråkar Pelle.
+Kalle (användare) 12år: Jag tycker om spel som jag lätt kan sätta mig in i och som är snabbt nog att spela på bussresan hem från skolan. Det får gärna vara färgglatt och tävlingsinriktat med för jag gillar att utmana och lära mig nya saker.
 
-Molly(användare): 8 år. Molly har nyss lärt sig läsa och skriva på lågstadienivå. Hon gillar därför spel som innehåller många bilder och  och spel som inte har mer än en kort simpel paragraf per fråga. Hon Gillar spel som har inkluderar musik. Hon gillar också spel som har med hennes favorit färger Blått och vit. Hon vill gärna att spelet ska innehålla två olika figurer för att Molly gillar geometriska former. Hon gillar också att leka med vänner på fritiden samt följa hennes idoler via sociala medier.
+Pelle (användare) 12 år: Fylld med energi, sprallig. Vill inte sitta still för länge. Jag tycker om spel med lätta frågor, mycket bilder och lite text.
+Ogillar läxor som inte handlar om historia, samhällskunskap och geografi. Kan inte ta in mer en några få rader av information om enbart ämne. Jag vill att spelet ska vara utmanande och ett lätt verktyg att hjälpa till med ämnen i skolan.
 
-Föräldrar(roll: föräldrar till användare)
+Molly (användare) 8 år: Har nyss lärt sig läsa och skriva på lågstadienivå. Hon gillar därför spel som innehåller många bilder och spel som inte har mer än en kort simpel paragraf per fråga. Hon Gillar spel som inkluderar musik. Hon gillar också spel som har med hennes favorit färger Blått och vit. Hon vill gärna att spelet ska innehålla två olika figurer för att Molly gillar geometriska former. Hon gillar också att leka med vänner på fritiden samt följa hennes idoler via sociala medier.
 
-Jonas(förälder): 40år, pappa till användare. Jag vill att mina barn ska kunna använda en appen för skolan lika mycket som nöje. Och hur gäller det barnens information? är den offentlig? vem kan få tag på den? Även finns det inbyggda kostnader vi måste oroa oss att barnen över konsumerar? 
+Casper (användare) 13år: För mig är det viktigt att spelet är ser roligt ut! Och att jag kan tävla mot mina vänner. Stänger ofta av spel som är för lätta, så utmanande och lärande är två viktiga saker för mig med.
 
-Erik(förälder) 42år. Är pappa till Pelle som är bekymrad över att hans son Pelle som spelar bort sin tid och inte lär sig nog i skolan
-eftersom det spel han spelar inte hjälper honom i studierna. Erik vill att hans son gärna lägger ner mer tid på lärospel som är interaktiva, roliga och lär sonen någonting viktigt om just samhällskunskap vilket är ett ämne både Erik och sonen Pelle har ett stort intresse. Hans ända bekymmer är att spelet inte ska ha någon politisk agenda för att förspegla verkligheten för hans son, utan att spelet ska vara opartiskt och innehålla fakta och inte åsikter personliga åsikter i de frågor som presenteras.
+Föräldrar till användare: 
 
-Moa(förälder) 37år: Moa är mamma till Molly. Det hon vill är att Molly ska spela spel som är användbart till hennes studier inom SO men vill att svårighets graden på frågorna inte ska vara för avancerad då Molly inte kan läsa eller skriva så bra. Det är Moa som kommer att välja vilket spel som Molly kommer att få så just därför är det Moa som känner att dessa kritier måste uppfyllas över dessaa kvalitér för att hon ska köpa detta spel till sin dotter.
+Jonas, 40 år (förälder): Jag vill att mina barn ska kunna använda appen i syfte att lära sig inför skolan samtidigt som att de ska tycka den är rolig – så att de även vill använda den i nöjessyfte. Det jag oroar mig för är huruvida barnens personuppgifter är offentliga eller ej. Hur hanteras de och vem kan få tillgång till dem? Jag undrar  även ifall det finns någon inbyggd kostnad som barnen råkar lägga pengar på?
+
+Erik, 42 år (förälder): Jag är bekymrad över att min son Pelle spelar bort sin tid på spel som inte utvecklar honom och därmed halkar efter i studierna. Jag vill att min son lägger ned mer tid på sånt som hjälper honom i skolan, exempelvis genom att spela lärospel som är interaktiva, roliga och dessutom kan lära honom mer om samhällskunskap. 
+
+Elin, 40 år (förälder): Jag är själv intresserad av politik och vill att mitt barn ska kunna dela mitt intresse. Mitt bekymmer med spelet är att risken finns att det har en bakomliggande politisk agenda. Jag vill att spelet inte ska förvränga sanningen, utan vara opartiskt och faktarikt utan personliga åsikter i de frågor som presenteras. Detta för att mitt barn ska kunna bilda sig en egen uppfattning och åsikt om politik. 
+
+Moa, 37 år (förälder): Jag vill att Molly ska spela ett spel som är användbart till hennes skolgång, främst inom ämnet SO. Frågorna i spelet kan inte vara allt för komplicerade och svåra, då Molly inte är så bra på att läsa eller skriva än. Eftersom att Molly fortfarande är ett barn, är det jag som bestämmer vilka spel det är hon får ladda ned och inte. Detta betyder att jag innan Molly laddar ned spelet kollar för att se ifall det är lämpligt för barn i hennes ålder eller inte. 
 
 
-Lärare
+Lärare:
 
-William(roll:lärare)47år: William är en passionerad lärare som vill använda mer digital medier för att lära barnen i klassen att
-göra arbetet i skolan mer interaktivt och roligt. Han söker efter spel som inte är för avancerade och för barn som går i sent 
-lågstadie och barn som förövrigt går på mellanstadiet. Så därmed vill William att spelet ska vara enkelt men informativ. Eftersom att William lär ut samhällskunskap och geografi i skolan så vill han gärna se att spelet uppfyller dessa två områden men skulle vara nöjd med att spelen han köper lär ut en av dessa ämnen sålänge spelet är simpelt, kul, interaktiv
-och att det ger kunskaper som hans elever kan använda på SO lektionerna.
+William, 65år (lärare): Jag är en passionerad lärare som vill använda mer digital verktyg för att lära barnen i klassen att göra arbetet i skolan mer interaktivt och roligt. Jag söker efter spel som inte är för avancerade och passar barn som går i sent lågstadie-mellanstadie (8-13år). Jag vill spelet ska vara lättförståeligt och informativt och kan skapa diskussion i bland barnen. Eftersom att jag lär ut samhällskunskap och geografi i skolan så vill jag gärna se att spelet uppfyller dessa två områden. Jag skulle vara nöjd med att spelet jag köper lär ut en av någon av dessa ämnen så länge spelet är lättlärt, utmanande, interaktivt och att det ger kunskaper som elever kan använda på SO lektionerna.
 
 Defineira flödesschema med Swimlanes: Beskriv lite mer formellt med flödesschema i swimlanes hur de olika rollerna samverkar mellan de olika Use Casen:
 
