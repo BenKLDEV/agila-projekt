@@ -88,5 +88,24 @@ Sprint 2 (Adderande funktionalitet):
 Skriv upp kraven i en "Product Backlog" och prioirtera ur produktägarens/brukarens perspektiv:
 Nida
 
+Categorize User:
+Prerequisite: User has entered a URL Democrat Quiz and now starting a new quiz.
+Description: System will give information about quiz and asks for users name.
+
+
+Select game:
+Prerequisite: User has entered his name.
+Description: System must have recorded name of a user.
+Detail: User clicked on the start button and quiz game page will open, one question at a time.
+
+Display Questionnaire:
+Prerequisite: User has clicked start button.
+Detail: There will be one question with two options with displaying pictures. User has to select one      answer. As soon first answer submitted, next question comes on the screen.
+
+View Score:
+Prerequisite: User has filled questionnaire and system has recorded all his answers, then system calculated his score and save it.
+Detail: As soon last question filled, system will fetch the database and display the score.
+
+
 
 Dokuemntera ovanstående och ladda upp på PingPong
