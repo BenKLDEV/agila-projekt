@@ -1,103 +1,169 @@
 var quizQuestions = [
   {
-    question: "what is ur spirit animal? ",
+    question: "Vilken ledarstil gillar du mest?",
     answers: [
       {
-        type: "Stark",
-        content: "Wolf"
+        type: "Demokrat",
+        content: "Att låta hela gruppen bestämma"
       },
 
       {
-        type: "Lannister",
-        content: "Lion"
+        type: "Oligark",
+        content: "Att låta ett fåtal personer bestämma"
       },
 
       {
-        type: "Targaryen",
-        content: "Dragon"
+        type: "Diktator",
+        content: "Att jag själv eller någon annan bestämmer allt"
       }
     ]
   },
-
   {
-    questions: "What do you value most ?",
+    question: "Är ordet demokrati ett ord som du ogillar?",
     answers: [
       {
-        type: "Stark",
-        content: "Loyalty"
+        type: "Demokrat",
+        content: "Verkligen inte"
+        
       },
 
       {
-        type: "Lannister",
-        content: "Money"
+        type: "Oligark",
+        content: "Lite halvt"
       },
 
       {
-        type: "Targaryen",
-        content: "Power"
+        type: "Diktator",
+        content: "Verkligen"
       }
     ]
   },
-
   {
-    question: "Who's your favorite family member? ",
+    question: "Tycker du att alla partier ska få komma till tals i riksdagen?",
     answers: [
       {
-        type: "Stark",
-        content: "My Parent"
+        type: "Demokrat",
+        content: "Absolut"
+       
       },
 
       {
-        type: "Lannister",
-        content: "My Sibling"
+        type: "Oligark",
+        content: "Inte riktigt. Bara ett fåtal."
       },
 
       {
-        type: "Targaryen",
-        content: "My Grandparent"
+        type: "Diktator",
+        content: "Nej. Bara ett parti ska få komma till tals."
+        
       }
     ]
   },
-
   {
-    question: "Chose an element",
+    question: "Skulle du vilja att Sverige var ett enmansvälde?",
     answers: [
       {
-        type: "Stark",
-        content: "Water"
+        type: "Demokrat",
+        content: "Absolute inte"
       },
 
       {
-        type: "Lannister",
-        content: "Air"
+        type: "Oligark",
+        content: "Nej. Men en oligarki."
       },
 
       {
-        type: "Targaryen",
-        content: "Fire"
+        type: "Diktator",
+        content: "Det låter bra. Det passar mig."
       }
     ]
   },
-
   {
-    question: "Which Castle would you live in? ",
+    question: "Nämn en ledare vars ledarstil du tycker om",
     answers: [
       {
-        type: "Stark",
-        content: "Winterfell"
+        type: "Demokrat",
+        content: "Isabella Lövin"
+        
       },
 
       {
-        type: "Lannister",
-        content: "Casterly Rock"
+        type: "Oligark",
+        content: "Putin"  
       },
 
       {
-        type: "Targaryen",
-        content: "DragonStone"
+        
+        type: "Diktator",
+        content: "Adolf Hitler"
+      }
+    ]
+  },
+  {
+    question: "Ska folk få demonstrera i ditt land?",
+    answers: [
+      {
+        type: "Demokrat",
+        content: "Ja verkligen! Det är en mänsklig rättighet"
+       
+      },
+
+      {
+        type: "Oligark",
+        content: "Nja, om dem inte blir ett hot mot oss så är det ok. Annars inte."
+        
+      },
+
+      {
+        type: "Diktator",
+        content: "Bara om det är vad jag tillåter."
+        
+      }
+    ]
+  },
+  {
+    question: "Ska folket ha mer makt i ditt land?",
+    answers: [
+      {
+        type: "Demokrat",
+        content: "Verkligen! Utan tvekan."
+        
+      },
+
+      {
+        type: "Oligark",
+        content: "Så länge det inte störa våra lilla inflyteserika grupp."
+        
+      },
+
+      {
+        type: "Diktator",
+        content: "Om det följer mitt kommand. Annars kommer det inte på fråga."
+      }
+    ]
+  },
+  {
+    question: "Vem av dessa ledare är mest demokratisk enligt dig?",
+    answers: [
+      {
+        type: "Demokrat",
+        content: "Barrack Obama"
+      },
+
+      {
+        type: "Oligark",
+        content: "Putin"
+      },
+
+      {
+        type: "Diktator",
+        content: "Kim Jong Un"
       }
     ]
   }
 ];
 
 export default quizQuestions;
+
+
+

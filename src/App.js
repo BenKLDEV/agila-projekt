@@ -20,9 +20,9 @@ class App extends Component {
       answerOption: [],
       answer: '',
       answersCount: {
-        Stark: 0,
-        Lannister: 0,
-        Targaryen: 0
+        Demokrat: 0,
+        Oligark: 0,
+        Diktator: 0
       },
       result: ''
     };
@@ -108,6 +108,11 @@ class App extends Component {
     if (result.length === 1){
       this.setState({ result: result[0]});
     }
+
+  else if (result.length === 2){
+      this.setState({ result: result[1]});
+    }
+
     else {
       this.setState({result: 'Undetermined' });
     }
